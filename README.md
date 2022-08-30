@@ -9,7 +9,7 @@
 - data_loader.py - Loading data into memory in order to pass it through the ResNet (this is also shown in resnet.ipynb)
 - resnet.py - Residual Neural Network implementation and testing in a python script file
 - resnet.ipynb - Jupyter Notebook format of resnet.py to break each step down
-- ECG_Classification_using_Residual_Neural_Networks.pdf - MSc Dissertation
+- ECG_Classification_using_Residual_Neural_Networks.pdf - MSc Dissertation (Grade - Distinction)
 
 
 # Future Considerations
